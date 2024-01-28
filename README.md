@@ -12,5 +12,6 @@ This project utilizes HTML, CSS, and JavaScript to build an interactive quiz web
 3. JavaScript: Implemented the logic and interactivity of the quiz app.
 
 # view
+![output](https://drive.google.com/file/d/1dyuDspC_ATpKo1xq_a21Ndj44kr5PnEa/view?usp=sharing)
 ![output](https://drive.google.com/file/d/1dyuDspC_ATpKo1xq_a21Ndj44kr5PnEa/view?usp=drive_link)
 ![output](https://drive.google.com/file/d/1DydXq5ptnyAWikladdapGMs5OQ7kXV8A/view?usp=drive_link)
