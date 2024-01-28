@@ -14,6 +14,6 @@ This project utilizes HTML, CSS, and JavaScript to build an interactive quiz web
 
 
 # view
-![output](https://drive.google.com/file/d/1dyuDspC_ATpKo1xq_a21Ndj44kr5PnEa/view?usp=sharing)
+![output](https://github.com/nikhil8424/Quiz-website-on-chandrayan/blob/main/quiz3.png)
 ![output](https://drive.google.com/file/d/1dyuDspC_ATpKo1xq_a21Ndj44kr5PnEa/view?usp=drive_link)
 ![output](https://drive.google.com/file/d/1DydXq5ptnyAWikladdapGMs5OQ7kXV8A/view?usp=drive_link)
