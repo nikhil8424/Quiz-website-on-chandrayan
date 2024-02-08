@@ -11,7 +11,7 @@ This project utilizes HTML, CSS, and JavaScript to build an interactive quiz web
 2. CSS: Used for styling and enhancing the visual appearance of the app.
 3. JavaScript: Implemented the logic and interactivity of the quiz app.
 
-#steps to follow 
+# steps to follow 
 1.save the files with the same name as given into one folder
 2.if possible save the folder on desktop
 3.open the .html file on chrome 
